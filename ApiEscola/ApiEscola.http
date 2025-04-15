@@ -1,0 +1,6 @@
+@ApiEscola_HostAddress = http://localhost:5272
+
+GET {{ApiEscola_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
